@@ -1,0 +1,47 @@
+.container {
+    background-color: brown;
+    padding: 30px 0px;
+
+}
+.container h1{
+    text-align: center;
+    color: white;
+
+}
+.price{
+    
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+    background-color:brown;
+
+
+
+}
+.pro{
+    width: 200px;
+    height: 200px;
+    background-color:white;
+ 
+  
+
+
+}
+.premium{
+    width: 250px;
+    height: 250px;
+    background-color:white;
+    
+
+}
+.platinum{
+    width: 300px;
+    height: 300px;
+    background-color:white;
+    
+
+}
+
+
